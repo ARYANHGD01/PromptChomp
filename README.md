@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # PromptChomp - Collaborative Prompt Sharing Platform
 
-![PromptChomp Logo])
+![PromptChomp Logo]
 
 ---
 
