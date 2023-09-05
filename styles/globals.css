@@ -79,12 +79,12 @@
 
 .black_btn {
   @apply rounded-full border border-black bg-black py-1.5 px-5 text-white text-center text-sm font-inter flex items-center justify-center;
-  transition: background-color 0.3s, color 0.3s; /* Add transition for background and text color */
+  transition: background-color 0.3s, color 0.3s;
 }
 
 .black_btn:hover {
-  background-color: white; /* Change background to white on hover */
-  color: black; /* Change text color to black on hover */
+  background-color: white;
+  color: black; 
 }
 
 
